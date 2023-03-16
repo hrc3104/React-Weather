@@ -1,7 +1,7 @@
 import { useState } from "react";
 import axios from "axios";
 import Title from "./components/Title";//Title.jsのTitleコンポーネントがApp.jsに取り込まれる
-import Form from "./components/Form";
+import Form from "./components/Form";//Form.jsのTitleコンポーネントがApp.jsに取り込まれる
 import Results from "./components/Results";
 
 
